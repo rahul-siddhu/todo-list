@@ -2,6 +2,11 @@
 
 A simple To-Do List application built with Spring Boot, Thymeleaf, MySQL and Spring Security. This application allows users to create, read, update, and delete tasks in their to-do list. It also includes user account creation and login functionalities.
 
+## Preview
+
+https://github.com/user-attachments/assets/41c06945-fef2-4af6-9846-b21f0f9f4f59
+
+
 ## Features
 
 - **CRUD Operations**: Users can create, read, update, and delete tasks.

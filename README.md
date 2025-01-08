@@ -1,6 +1,6 @@
 # Spring Boot To-Do List App
 
-A simple To-Do List application built with Spring Boot, Thymeleaf, MySQL and Spring Security. This application allows users to create, read, update, and delete tasks in their to-do list. It also includes user account creation and login functionalities.
+A simple To-Do List application built with Spring Boot, Thymeleaf, MySQL and Spring Security. This application allows users to create, read, update, and delete tasks in their to-do list. User sinup and signin is also added.
 
 ## Preview
 
